@@ -54,5 +54,5 @@ git push origin main
 ```
 
 ## Authors
-- Vanshika Tyagi
+- Kunal Chitroda
 
